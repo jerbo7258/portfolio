@@ -241,3 +241,24 @@ right: 75px;
         left:20%;
         margin-right: 25px;
       }
+
+      #php {
+        width: 1400px;
+      }
+
+      #resu {
+        background-color: #FF6542;
+        color: rgb(0, 0, 0);
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        position: relative;
+        top:150px;
+        width: 170px;
+        text-align: center;
+      }
+    
+      #resu:hover {
+        background-color: #aa4a2c;
+      }
